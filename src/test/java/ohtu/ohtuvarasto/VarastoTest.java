@@ -121,4 +121,5 @@ public class VarastoTest {
         Varasto testi = new Varasto(5, 6);
         assertEquals(5, testi.getSaldo(), vertailuTarkkuus);
     }
+    
 }
