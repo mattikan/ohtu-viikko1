@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4baa53fe-a4c9-46df-a726-6ad7d3c1048f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" afterPath="$PROJECT_DIR$/src/test/java/ohtu/ohtuvarasto/VarastoTest.java" />
-    </list>
+    <list default="true" id="4baa53fe-a4c9-46df-a726-6ad7d3c1048f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -933,7 +931,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509467599080</updated>
-      <workItem from="1509467600749" duration="2199000" />
+      <workItem from="1509467600749" duration="2483000" />
     </task>
     <servers />
   </component>
@@ -943,7 +941,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2199000" />
+    <option name="totallyTimeSpent" value="2483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
