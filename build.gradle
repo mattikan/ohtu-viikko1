@@ -36,6 +36,8 @@ jar {
     }
 }
 
+apply plugin: 'checkstyle'
+
 apply plugin: "jacoco"
 
 jacocoTestReport {
